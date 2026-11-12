@@ -1,0 +1,8 @@
+FULL NAME: Carolyn Dare
+CURRENT SKILL LEVEL: Beginner
+
+WHY I WANT TO LEARN FRONTEND DEVELOPMENT:
+I'm interested in coding but haven't yet figured out exactly what each
+field involves. So I'm starting with fullstack development to explore
+every area before choosing a specialization — with frontend being one I'm
+especially curious about.
