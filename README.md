@@ -6,7 +6,7 @@
 
 ---
 
-## 📁 Project Files
+## Project Files
 
 - `README.md` — Project overview and learning notes
 - `about-me.txt` — Personal introduction and motivation
@@ -14,12 +14,12 @@
 
 ---
 
-## 🎯 Learning Goals
+## Learning Goals
 
 See [`goals.txt`](goals.txt) for the full list. Current focus areas include HTML, CSS, JavaScript, React, and Git/GitHub workflows.
 
 ---
 
-## 📚 What I Have Learned
+## What I Have Learned
 
 I've learned that version control is very important when working on a project so as to note every change or update. I've also learned how to push a directory into the github  and committing into that repo.
