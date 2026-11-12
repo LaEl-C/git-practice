@@ -1,5 +1,6 @@
 FULL NAME: Carolyn Dare
 CURRENT SKILL LEVEL: Beginner
+FAVOURITE EDITOR: VS Code
 
 WHY I WANT TO LEARN FRONTEND DEVELOPMENT:
 I'm interested in coding but haven't yet figured out exactly what each
