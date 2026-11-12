@@ -3,4 +3,5 @@ MY GOALS:
 2. Learn HTML
 3. Learn CSS
 4. Learn JavaScript
-5. Learn React
+5. Learn Figma
+6. Learn React
